@@ -1,2 +1,5 @@
-# events-presentations
-All events updates, summary, photos and presentations go here.
+# ecosystem
+All ecosystem related materials here....
+- community and community building events
+- all the events
+- branding materials- logo etc...
