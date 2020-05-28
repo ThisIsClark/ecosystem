@@ -1,6 +1,3 @@
-##This is the task list of the event "ISCAS & openEuler Community Open Source Promotion Plan - Summer 2020"
-
-----
 
 # 开源软件供应链点亮计划2020，SODA Foundation 任务列表
 
@@ -98,7 +95,7 @@ Go 1.8新增了plugin package，请使用这个机制，使程序启动时根据
 1. 项目标题：
 引入Sanity作为nbp测试框架
 2. 项目描述：
-nbp通过kubernetes和CSI插件进行存储设备的管理，但目前nbp没有一套针对kubernetes和CSI的测试框架。kubernetes官方提供了测试工具Sanity，请使用Sanity为nbp进行CSI插件基本功能的测试
+nbp通过kubernetes和CSI插件进行存储设备的管理，但目前nbp没有一套针对kubernetes和CSI的测试框架。kubernetes官方提供了测试工具Sanity，请使用Sanity进行CSI插件基本功能的测试
 3. 项目难度：
 低
 4. 项目社区导师：
